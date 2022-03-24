@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "google-play-scraper": "^8.1.0"
+  },
+  "scripts": {
+    "android": "node ./android.js"
+  }
+}
