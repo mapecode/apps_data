@@ -341,3 +341,4 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/node,python,macos,yarn
 data/scrape/yarn.lock
+*.csv
